@@ -12,7 +12,7 @@
     
 ## Leaderboard
 
-    Below is the zero-shot accuracy of various models evaluated using the most recent version of the question bank.
+Below is the zero-shot accuracy of various models evaluated using the most recent version of the question bank.
     
 <p align="center"> <img src="resources/model-eval-results.png" style="width: 85%;" id="title-icon">       </p>
 

@@ -13,7 +13,7 @@
     
 ## 排行榜
 
-    下面列出我们使用最新版本题库对模型进行评估后的zero-shot准确率。
+下面列出我们使用最新版本题库对模型进行评估后的zero-shot准确率。
     
 <p align="center"> <img src="resources/model-eval-results.png" style="width: 85%;" id="title-icon">       </p>
 
