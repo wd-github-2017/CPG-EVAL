@@ -11,7 +11,9 @@
 - [Citation](#Citation)
     
 ## Leaderboard
+
     Below is the zero-shot accuracy of various models evaluated using the most recent version of the question bank.
+    
 <p align="center"> <img src="resources/model-eval-results.png" style="width: 85%;" id="title-icon">       </p>
 
 Model results are based on the full CPG-EVAL question bank, while human results are derived from the streamlined CPG-EVAL: lite question bank. For more experimental details, please refer to [Wang(2025)](https://arxiv.org/abs/2504.13261/)
