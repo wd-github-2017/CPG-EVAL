@@ -1,7 +1,9 @@
 <p align="center">
-   🌐 <<a href="https://github.com/wd-github-2017/CPG-EVAL/blob/main/README.md">English | <a href="https://github.com/wd-github-2017/CPG-EVAL/blob/main/README_zh.md">中文</a>
+    <a href="https://github.com/wd-github-2017/CPG-EVAL/blob/main/README.md">English | <a href="https://github.com/wd-github-2017/CPG-EVAL/blob/main/README_zh.md">中文</a>
 </p>
- [Wang(2025)](https://arxiv.org/abs/2504.13261/) 提出了一种低成本且高效的方法，用于快速构建多层级的专项基准测试，以评估大语言模型（LLM）对教学语法知识的掌握。并且，[Wang(2025)](https://arxiv.org/abs/2504.13261/)将这种方法付诸实践，建立了首个专门评估大语言模型教学语法理解能力的基准数据集——对外汉语教学语法评测（CPG-EVAL）。此外，我们还对大语言模型和人类参与者进行了相关测试。
+
+
+[Wang(2025)](https://arxiv.org/abs/2504.13261/) 提出了一种低成本且高效的方法，用于快速构建多层级的专项基准测试，以评估大语言模型（LLM）对教学语法知识的掌握。并且，[Wang(2025)](https://arxiv.org/abs/2504.13261/)将这种方法付诸实践，建立了首个专门评估大语言模型教学语法理解能力的基准数据集——对外汉语教学语法评测（CPG-EVAL）。此外，我们还对大语言模型和人类参与者进行了相关测试。
 
 ## 目录
 - [排行榜](#排行榜)

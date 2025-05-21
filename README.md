@@ -1,7 +1,8 @@
 <p align="center">
-   🌐 <<a href="https://github.com/wd-github-2017/CPG-EVAL/blob/main/README.md">English | <a href="https://github.com/wd-github-2017/CPG-EVAL/blob/main/README_zh.md">中文</a>
+    <a href="https://github.com/wd-github-2017/CPG-EVAL/blob/main/README.md">English | <a href="https://github.com/wd-github-2017/CPG-EVAL/blob/main/README_zh.md">中文</a>
 </p>
- [Wang(2025)](https://arxiv.org/abs/2504.13261/) proposes a low-cost and efficient method for rapidly constructing specialized multi-tiered benchmarks to assess LLMs' knowledge of pedagogical grammar. Furthermore, [Wang(2025)](https://arxiv.org/abs/2504.13261/) put this method into practice by establishing the first dedicated benchmark specifically designed to evaluate LLMs’ understanding of pedagogical grammar, named the Chinese Pedagogical Grammar Evaluation (CPG-EVAL). In addition, we conducted tests involving both LLMs and human participants. 
+
+[Wang(2025)](https://arxiv.org/abs/2504.13261/) proposes a low-cost and efficient method for rapidly constructing specialized multi-tiered benchmarks to assess LLMs' knowledge of pedagogical grammar. Furthermore, [Wang(2025)](https://arxiv.org/abs/2504.13261/) put this method into practice by establishing the first dedicated benchmark specifically designed to evaluate LLMs’ understanding of pedagogical grammar, named the Chinese Pedagogical Grammar Evaluation (CPG-EVAL). In addition, we conducted tests involving both LLMs and human participants. 
 
 ## Contents
 - [Leaderboard](#Leaderboard)
